@@ -1,0 +1,11 @@
+*.pyc
+**.ipynb_checkpoints
+*.csv
+venv
+virtualenv
+virtual-env
+.DS_Store
+*.Rproj.user
+*.Rhistory
+*.Rproj
+.Rproj.user
